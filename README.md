@@ -22,7 +22,9 @@ Our friend Maria who is the Chief Data Scientist at a city school district has a
   <td><b>Difference:</b></td>
   </tr>
   <tr>
-  <td></td>
+  <td>
+  As we can see clearly from the images above, our scores have slightly dropped as we have removed the 9th grade Math and Reading scores from our calculations.
+  </td>
   </tr>
   </table>
 
@@ -44,7 +46,9 @@ Our friend Maria who is the Chief Data Scientist at a city school district has a
   <td><b>Difference:</b></td>
   </tr>
   <tr>
-  <td></td>
+  <td>
+  As we can see here the information relatively is the same with the exception of Thomas high School. The `% Overall Passing` has seen a significant increase of approximately `7%`
+  </td>
   </tr>
   </table>
  
@@ -78,7 +82,9 @@ Our friend Maria who is the Chief Data Scientist at a city school district has a
   <td><b>Difference:</b></td>
   </tr>
   <tr>
-  <td></td>
+  <td>
+  As we can see from the images above, the values for Thomas High school have seen slight negative changes. The only exception is ther `% Passing Math` which has seen a slight positive change.
+  </td>
   </tr>
   </table>
   
@@ -107,7 +113,9 @@ Our friend Maria who is the Chief Data Scientist at a city school district has a
   <th><b>Difference:</b></th>
   </tr>
   <tr>
-  <td></td>
+  <td>
+  As we can see from the images above, we have correctly replace the 9th grades of Thomas High School with NaNs.
+  </td>
   </tr>
   </table>
  
@@ -130,7 +138,13 @@ Our friend Maria who is the Chief Data Scientist at a city school district has a
   <td><b>Difference:</b></td>
   </tr>
   <tr>
-  <td></td>
+  <td>
+  As we can see from the images above, the `% Passing Reading` has seen slight shifts.
+  * <$584 has seen a decrease of 4%.
+  * $585-629 has seen a decrease of 6%.
+  * $630-644 has seen a decrease of 11%.
+  * $645-675 has seen a decrease of 15%.
+  </td>
   </tr>
   </table>
  
@@ -152,7 +166,9 @@ Our friend Maria who is the Chief Data Scientist at a city school district has a
   <td><b>Difference:</b></td>
   </tr>
   <tr>
-  <td></td>
+  <td>
+  As we can see from the images above, there were no changes with the change in our calculations on the Scores by School Size.
+  </td>
   </tr>
   </table>
  
@@ -174,6 +190,8 @@ Our friend Maria who is the Chief Data Scientist at a city school district has a
   <td><b>Difference:</b></td>
   </tr>
   <tr>
-  <td></td>
+  <td>
+  As we can see from the images above, there were no changes with the change in our calculations on the Scores by School Type.
+  </td>
   </tr>
   </table>
