@@ -19,7 +19,7 @@ Our friend Maria who is the Chief Data Scientist at a city school district has a
   <th><img src="https://github.com/mubeenkh4u/RBC-Module-4-School-District-Analysis/blob/main/Resources/New_District_Summary.png"></th>
   </tr>
   <tr>
-  <td>Difference:</td>
+  <td><b>Difference:</b></td>
   </tr>
   <tr>
   <td></td>
@@ -41,7 +41,7 @@ Our friend Maria who is the Chief Data Scientist at a city school district has a
   <th><img src="https://github.com/mubeenkh4u/RBC-Module-4-School-District-Analysis/blob/main/Resources/New_Per_School_Summary.png"></th>
   </tr>
   <tr>
-  <td><b>Difference</b></td>
+  <td><b>Difference:</b></td>
   </tr>
   <tr>
   <td></td>
@@ -82,7 +82,7 @@ Our friend Maria who is the Chief Data Scientist at a city school district has a
   </tr>
   </table>
   
-  ### Math and Reading Scores by Grades
+ ### Math and Reading Scores by Grades
   <table align="center">
   <tr>
   <th>Original Math</th>
@@ -100,12 +100,17 @@ Our friend Maria who is the Chief Data Scientist at a city school district has a
   <th><img src="https://github.com/mubeenkh4u/RBC-Module-4-School-District-Analysis/blob/main/Resources/New_Math_Scores_by_Grade.png"></th>
   <th><img src="https://github.com/mubeenkh4u/RBC-Module-4-School-District-Analysis/blob/main/Resources/New_Reading_Scores_by_Grade.png"></th>
   </tr>
-  <td><b>Difference:</b></td>
+  </table>
+  
+  <table align="center">
+  <tr>
+  <th><b>Difference:</b></th>
   </tr>
   <tr>
   <td></td>
-  </tr
+  </tr>
   </table>
+ 
  
  ### Scores by School Spending
   <table align="center">
