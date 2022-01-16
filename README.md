@@ -47,7 +47,14 @@ Our friend Maria who is the Chief Data Scientist at a city school district has a
   </tr>
   <tr>
   <td>
-  As we can see here the information relatively is the same with the exception of Thomas high School. The <b>% Overall Passing</b> has seen a significant increase of approximately <b>7%</b>
+  As we can see from the images above, Thomas High School values have seen a significant positive change after replacing the 9th grade scores with NaNs.
+    
+  * % Passing Math increased from 66.9% to 93.2%.
+    
+  * % Passing Reading increased from 69.7% to 97.0%.
+
+  * % Overall Passing increased from 65.1% to 90.6%.
+    
   </td>
   </tr>
   </table>
@@ -83,7 +90,7 @@ Our friend Maria who is the Chief Data Scientist at a city school district has a
   </tr>
   <tr>
   <td>
-  As we can see from the images above, the values for Thomas High school have seen slight negative changes. The only exception is ther `% Passing Math` which has seen a slight positive change.
+
   </td>
   </tr>
   </table>
@@ -202,4 +209,7 @@ Our friend Maria who is the Chief Data Scientist at a city school district has a
   </table>
 
 ## Summary
-After comparing the data from both analysis, its hard to find major changes in the school district analysis since even after adding the NaNs to the data frame, the results were not significantly different. The passing percentages for both math and reading were not impacted by more than a grade point for the average. The values that were replaced by NaNs did not create any significant statistical difference to the results, so there could be more research conducted to see if how the results of the grade 9th student affected math and reading proficiences at Thomas High School.
+ * Count of students reduced 12% (461) from 39,170 to 38,709
+ * % Passing Math increased from 66.9% to 93.2%
+ * % Passing Reading increased from 69.7% to 97.0%
+ * % Overall Passing increased from 65.1% to 90.6%
