@@ -3,7 +3,7 @@
 ## Overview:
 Our friend Maria who is the Chief Data Scientist at a city school district has asked us to help her with the standardised test data for analysis with the focus of our analysis being towards Student funding and student's standardized test scores. Here we aggregate the data and show trends and performance. This analysis will help the school board and super-intendent in making decisions regarding the school budgets and priorities.
 
-# Results:
+## Results:
 ### District Summary
   <table align="center">
   <tr>
@@ -200,3 +200,6 @@ Our friend Maria who is the Chief Data Scientist at a city school district has a
   </td>
   </tr>
   </table>
+
+## Summary
+After comparing the data from both analysis, its hard to find major changes in the school district analysis since even after adding the NaNs to the data frame, the results were not significantly different. The passing percentages for both math and reading were not impacted by more than a grade point for the average. The values that were replaced by NaNs did not create any significant statistical difference to the results, so there could be more research conducted to see if how the results of the grade 9th student affected math and reading proficiences at Thomas High School.
