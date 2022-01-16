@@ -90,7 +90,7 @@ Our friend Maria who is the Chief Data Scientist at a city school district has a
   </tr>
   <tr>
   <td>
-
+  As we can see from the images above, there are very slight changes to the values within a margin of 0.1 to 0.3% approximately, after replacing the values for 9th grade scores for Thomas High School.
   </td>
   </tr>
   </table>
