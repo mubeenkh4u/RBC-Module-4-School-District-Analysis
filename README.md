@@ -47,7 +47,7 @@ Our friend Maria who is the Chief Data Scientist at a city school district has a
   </tr>
   <tr>
   <td>
-  As we can see here the information relatively is the same with the exception of Thomas high School. The `% Overall Passing` has seen a significant increase of approximately `7%`
+  As we can see here the information relatively is the same with the exception of Thomas high School. The <b>% Overall Passing</b> has seen a significant increase of approximately <b>7%</b>
   </td>
   </tr>
   </table>
@@ -114,7 +114,7 @@ Our friend Maria who is the Chief Data Scientist at a city school district has a
   </tr>
   <tr>
   <td>
-  As we can see from the images above, we have correctly replace the 9th grades of Thomas High School with NaNs.
+  As we can see from the images above, we have correctly replaced the 9th grades of Thomas High School with NaNs.
   </td>
   </tr>
   </table>
@@ -139,11 +139,16 @@ Our friend Maria who is the Chief Data Scientist at a city school district has a
   </tr>
   <tr>
   <td>
-  As we can see from the images above, the `% Passing Reading` has seen slight shifts.
+  As we can see from the images above, the <b>% Passing Reading</b> has seen slight shifts.
+    
   * <$584 has seen a decrease of 4%.
+          
   * $585-629 has seen a decrease of 6%.
+          
   * $630-644 has seen a decrease of 11%.
+          
   * $645-675 has seen a decrease of 15%.
+          
   </td>
   </tr>
   </table>
