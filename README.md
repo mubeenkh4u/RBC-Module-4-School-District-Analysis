@@ -1,4 +1,4 @@
-# RBC-Module-4-School-District-Analysis
+# School-District-Analysis
 
 ## Overview:
 Our friend Maria who is the Chief Data Scientist at a city school district has asked us to help her with the standardised test data for analysis with the focus of our analysis being towards Student funding and student's standardized test scores. Here we aggregate the data and show trends and performance. This analysis will help the school board and super-intendent in making decisions regarding the school budgets and priorities.
